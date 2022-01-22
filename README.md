@@ -7,7 +7,9 @@
 ![2](https://user-images.githubusercontent.com/65533618/150644753-830095c9-cf8b-4a7e-8f88-abf82849f998.png)
 
 ### Dialog_라디오 버튼 대화목록
+누르면 아래 Toast가 활성화 된다
 ![4](https://user-images.githubusercontent.com/65533618/150644754-f1e5814d-f346-493d-abb6-8b2ff3205524.png)
 
 ### Dialog_체크박스 대화목록
+누르면 아래 Toast가 활성화 된다
 ![3](https://user-images.githubusercontent.com/65533618/150644755-0e303931-1a4f-460f-b3fe-9c800d7c2894.png)
